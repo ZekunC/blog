@@ -17,6 +17,7 @@
 	display: flex;
 	justify-content: center;
     flex-wrap: wrap;
+	align-items: center;
 }
 #div2 > img{
 	width: 20%;
@@ -45,7 +46,8 @@
 #div3_bm, #div4_bm,#div5_bm{
 	width: 100%;
 	display: flex;
-	justify-content: space-around;   
+	justify-content: space-around;
+	align-items: center;
 }
 
 #div3_bm>img{
